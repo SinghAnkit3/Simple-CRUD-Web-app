@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS `employee` (   `id` int(20) NOT NULL AUTO_INCREMENT,   `uname` varchar(45) DEFAULT NULL,   `email` varchar(45) DEFAULT NULL,   `salary` varchar(255) DEFAULT NULL,   PRIMARY KEY (`id`) )
